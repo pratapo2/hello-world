@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to ItBrains , code chaged by pratap !!! </h1>
+<h1> Hello, Welcome to ItBrains , code changed by pratap !!! </h1>
 
