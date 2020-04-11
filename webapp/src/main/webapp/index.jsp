@@ -1,10 +1,3 @@
 <html>
-	<h3> Code changed by ME </h3>
-</html>
-
-<html>
-	<h4> Hurry! </h4>
-</html>
-
-
-changed by me
+<h4> Code changed for Docker </h4>
+</h4>
